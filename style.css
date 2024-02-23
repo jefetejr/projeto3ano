@@ -30,6 +30,6 @@ body{
     width: 100%;
     font-size: 32px;
 }
-.titulo-principal{
+.titulo-principal span{
     color: var(--verde);
 }

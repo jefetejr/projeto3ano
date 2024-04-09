@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap" rel="stylesheet">;');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
 
 :root{
     --branco: #FFFFFF;
@@ -14,7 +14,7 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Chakra Petch', 'Sans-Serif';
+    font-family: 'Chakra Petch', 'Protest Revolution';
 }
 .conteudo-principal{
     display: flex;

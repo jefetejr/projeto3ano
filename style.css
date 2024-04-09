@@ -33,7 +33,7 @@ body{
     color: var(--cor-rosa);
 }
 .botao{
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Chakra Petch', 'Protest Revolution';
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;

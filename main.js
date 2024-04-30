@@ -20,7 +20,7 @@ const tempoObjetivo4 = new Date("2024-08-05T23:59:59");
 const tempos = [
   tempoObjetivo1, tempoObjetivo2, tempoObjetivo3, tempoObjetivo4
 ]
-function calculaTempo(tempoObjetivo)(
+function calculaTempo(tempoObjetivo){
   let tempoAtual = new Date();
   contadores[0].textContent = tempoObjetivo1 - tempoAtual;
   let segundos = Math.floor(tempofinal / 1000);
@@ -36,4 +36,7 @@ function calculaTempo(tempoObjetivo)(
           + horas + "horas"
           + minutos + "minutos"
           + segundos + "segundos"
-)
+
+
+}
+  
